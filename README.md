@@ -17,4 +17,4 @@ This project is an interactive dashboard built with **Python** and **Streamlit**
 * **Plotly & Matplotlib** (for data visualization)
 
 ## 🌐 Live Demo
-You can test the live application here:
+You can test the live application here: https://amazonsales--analysis-dpwxx4quar2atcxuxkrtkb.streamlit.app/
