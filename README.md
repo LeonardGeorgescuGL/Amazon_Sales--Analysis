@@ -1,18 +1,20 @@
 # 🛒 Amazon Sales & Profit Dashboard
 
-Acest proiect este un dashboard interactiv construit cu **Python** și **Streamlit**, conceput pentru a analiza performanța vânzărilor globale, profitabilitatea pe regiuni și preferințele clienților dintr-un set de date tip e-commerce.
+This project is an interactive dashboard built with **Python** and **Streamlit**, designed to analyze global sales performance, regional profitability, and customer preferences using an e-commerce dataset. 
 
-## 🚀 Funcționalități
-* **Filtrare Dinamică:** Datele pot fi filtrate în timp real după regiune, categorie și discount.
-* **KPIs Financiari:** Calcul automat pentru total comenzi, venituri (revenue) și profit.
-* **Analiză Vizuală:** Grafice interactive (Plotly) și distribuții (Matplotlib).
-* **Export Date:** Posibilitatea de a descărca datele filtrate sub formă de raport CSV.
+🎓 **Academic Context:** This application was developed as a seminar assignment for the course **"Software Packages: Development of Applications for Data Analysis and Machine Learning in Python and SAS"** (*Pachete Software*).
 
-## 🛠️ Tehnologii Folosite
-* Python 3.12
-* Streamlit (pentru interfața web)
-* Pandas (pentru manipularea datelor)
-* Plotly & Matplotlib (pentru vizualizări)
+## 🚀 Features
+* **Dynamic Filtering:** Real-time data filtering by region, product category, and discount percentage.
+* **Financial KPIs:** Automatic calculation for total orders, total revenue, and total profit.
+* **Visual Analysis:** Interactive charts (Plotly) and data distributions (Matplotlib) for deep business insights.
+* **Data Export:** The ability to download the filtered dataset as a CSV report.
+
+## 🛠️ Technologies Used
+* **Python 3.12**
+* **Streamlit** (for the web interface)
+* **Pandas** (for data manipulation and cleaning)
+* **Plotly & Matplotlib** (for data visualization)
 
 ## 🌐 Live Demo
-Poți testa aplicația live aici: 
+You can test the live application here:
