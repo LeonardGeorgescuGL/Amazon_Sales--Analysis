@@ -1,0 +1,160 @@
+order_id,product_id,product_category,price,discount_percent,quantity_sold,customer_region,payment_method,rating,review_count,discounted_price,total_revenue,profit
+1,2637,Books,128.75,10,4,North America,UPI,3.5,443,115.88,463.52,23.176
+2,2300,Fashion,302.6,20,5,Asia,Credit Card,3.7,475,242.08,1210.4,60.52
+3,3670,Sports,495.8,20,2,Europe,UPI,4.4,183,396.64,793.28,39.664
+4,2522,Books,371.95,15,4,Middle East,UPI,5,212,316.16,1264.64,63.232
+5,1717,Beauty,201.68,0,4,Middle East,UPI,4.6,308,201.68,806.72,40.336
+6,1777,Sports,385.17,30,3,Asia,Wallet,3.8,489,269.62,808.86,40.443
+7,4068,Books,15.78,0,5,Asia,UPI,1.6,415,15.78,78.9,3.945
+8,3537,Fashion,111.59,30,4,Middle East,UPI,3.4,143,78.11,312.44,15.622
+9,3262,Books,373.62,0,4,Asia,Wallet,2.8,497,373.62,1494.48,74.724
+10,4174,Sports,134.81,15,2,Middle East,Cash on Delivery,2,25,114.59,229.18,11.459
+11,4878,Electronics,67.43,20,4,Europe,Debit Card,4.3,426,53.94,215.76,10.788
+12,3637,Books,150.19,0,1,North America,Cash on Delivery,4.4,279,150.19,150.19,7.5095
+13,3222,Electronics,89.81,0,3,Europe,UPI,3.6,151,89.81,269.43,13.4715
+14,4925,Home & Kitchen,213.22,0,3,Europe,Credit Card,1.4,239,213.22,639.66,31.983
+15,1051,Beauty,66.65,10,2,North America,Debit Card,4.6,262,59.99,119.98,5.999
+16,3344,Electronics,419.66,0,3,Middle East,Credit Card,2.7,46,419.66,1258.98,62.949
+17,3011,Sports,391.09,5,3,Middle East,Credit Card,3.7,51,371.54,1114.62,55.731
+18,3222,Home & Kitchen,156.95,30,3,Middle East,Cash on Delivery,2.9,354,109.86,329.58,16.479
+19,1968,Home & Kitchen,262.36,10,1,Asia,Wallet,4.6,473,236.12,236.12,11.806
+20,3390,Fashion,428.24,30,3,Middle East,Wallet,1.2,331,299.77,899.31,44.9655
+21,2734,Home & Kitchen,464.87,10,3,North America,Wallet,3.8,490,418.38,1255.14,62.757
+22,1599,Beauty,50.09,0,1,Europe,UPI,4.3,34,50.09,50.09,2.5045
+23,1170,Beauty,362.4,15,2,North America,Debit Card,2.4,318,308.04,616.08,30.804
+24,4108,Beauty,72.05,20,2,Middle East,Debit Card,4.4,129,57.64,115.28,5.764
+25,2658,Beauty,14.92,15,1,Middle East,Wallet,1,498,12.68,12.68,0.634
+26,4272,Fashion,44.08,15,1,Europe,Debit Card,1.1,303,37.47,37.47,1.8735
+27,2087,Books,290.06,20,5,Asia,Credit Card,4.1,35,232.05,1160.25,58.0125
+28,4557,Sports,191.67,10,5,Asia,Cash on Delivery,4.3,106,172.5,862.5,43.125
+29,1454,Sports,63.74,10,1,Europe,Cash on Delivery,4.1,318,57.37,57.37,2.8685
+30,4771,Electronics,239.79,15,5,North America,Credit Card,2.8,150,203.82,1019.1,50.955
+31,1726,Fashion,256.57,20,2,North America,Credit Card,3.6,269,205.26,410.52,20.526
+32,2432,Sports,394.76,10,3,North America,UPI,3.7,382,355.28,1065.84,53.292
+33,1886,Fashion,333.51,0,5,Europe,Wallet,4.1,196,333.51,1667.55,83.3775
+34,4053,Electronics,235.65,5,3,North America,Cash on Delivery,4.3,448,223.87,671.61,33.5805
+35,3802,Sports,165.55,5,2,North America,Wallet,5,149,157.27,314.54,15.727
+36,3197,Electronics,5.99,20,2,North America,UPI,4.5,89,4.79,9.58,0.479
+37,2525,Books,416.86,10,3,Europe,Credit Card,1.9,484,375.17,1125.51,56.2755
+38,1635,Books,137.16,15,3,North America,UPI,1.3,86,116.59,349.77,17.4885
+39,4014,Beauty,110.54,30,4,Europe,Credit Card,3.5,4,77.38,309.52,15.476
+40,3757,Sports,368.63,0,4,Asia,Debit Card,3.9,405,368.63,1474.52,73.726
+41,2571,Books,40.47,15,1,Middle East,Credit Card,3.7,418,34.4,34.4,1.72
+42,4885,Books,135,30,5,Europe,Cash on Delivery,3.9,469,94.5,472.5,23.625
+43,3325,Electronics,220.35,15,5,North America,Cash on Delivery,3.1,146,187.3,936.5,46.825
+44,3082,Home & Kitchen,223.58,5,3,Middle East,Wallet,3.5,238,212.4,637.2,31.86
+45,4696,Beauty,83.13,20,1,Middle East,Wallet,2.6,71,66.5,66.5,3.325
+46,1174,Beauty,24.86,5,5,Middle East,Debit Card,4,224,23.62,118.1,5.905
+47,2056,Fashion,237.91,20,3,North America,Cash on Delivery,2.1,366,190.33,570.99,28.5495
+48,2748,Books,181.94,5,2,Asia,Credit Card,4.2,5,172.84,345.68,17.284
+49,3762,Books,146,15,2,Asia,Debit Card,4.5,157,124.1,248.2,12.41
+50,4468,Electronics,138.96,20,1,Middle East,Cash on Delivery,3.4,451,111.17,111.17,5.5585
+51,3301,Books,254.57,15,3,Middle East,Cash on Delivery,2.5,361,216.38,649.14,32.457
+52,1567,Fashion,15.72,20,2,Asia,Debit Card,3.3,429,12.58,25.16,1.258
+53,1322,Electronics,57.51,5,3,Asia,Cash on Delivery,2,178,54.63,163.89,8.1945
+54,3060,Beauty,165.98,5,1,Asia,UPI,3.6,348,157.68,157.68,7.884
+55,3097,Books,242.51,5,2,Asia,Cash on Delivery,4.1,201,230.38,460.76,23.038
+56,2783,Books,348.44,20,4,North America,Cash on Delivery,1.2,57,278.75,1115,55.75
+57,4304,Fashion,150.09,10,4,Europe,Cash on Delivery,2.3,363,135.08,540.32,27.016
+58,4000,Sports,335.19,0,4,Middle East,Wallet,3.1,389,335.19,1340.76,67.038
+59,4041,Fashion,196.64,20,2,Asia,Credit Card,2.1,206,157.31,314.62,15.731
+60,4611,Electronics,388.49,20,5,North America,Wallet,1.3,220,310.79,1553.95,77.6975
+61,3663,Beauty,242.91,10,2,Asia,Wallet,3.2,286,218.62,437.24,21.862
+62,3913,Sports,272.99,30,1,Middle East,Cash on Delivery,4.6,389,191.09,191.09,9.5545
+63,3143,Sports,220.36,5,4,Middle East,Cash on Delivery,3.9,208,209.34,837.36,41.868
+64,1342,Fashion,70.78,15,1,Europe,UPI,2.4,486,60.16,60.16,3.008
+65,3903,Fashion,89.73,0,5,Asia,Cash on Delivery,4.3,399,89.73,448.65,22.4325
+66,3240,Beauty,203.24,10,3,North America,Wallet,4,412,182.92,548.76,27.438
+67,4991,Home & Kitchen,53.92,15,1,North America,UPI,2.1,286,45.83,45.83,2.2915
+68,3558,Electronics,74.39,15,3,Middle East,Credit Card,5,384,63.23,189.69,9.4845
+69,2474,Sports,313.75,20,2,Asia,Cash on Delivery,3.4,25,251,502,25.1
+70,2148,Home & Kitchen,318.45,0,5,Asia,UPI,1.1,337,318.45,1592.25,79.6125
+71,4152,Beauty,68.08,0,4,Asia,Cash on Delivery,4,0,68.08,272.32,13.616
+72,1006,Sports,427.64,0,4,Middle East,Debit Card,3.5,178,427.64,1710.56,85.528
+73,1329,Sports,429.08,30,4,North America,Credit Card,3.7,70,300.36,1201.44,60.072
+74,1082,Books,192.97,10,1,North America,Wallet,4.3,88,173.67,173.67,8.6835
+75,2559,Sports,251.49,10,1,Europe,Cash on Delivery,1.7,212,226.34,226.34,11.317
+76,3952,Electronics,401.77,20,2,North America,UPI,4.6,38,321.42,642.84,32.142
+77,3673,Beauty,382.54,0,4,Europe,Cash on Delivery,3.7,92,382.54,1530.16,76.508
+78,1526,Beauty,184.56,15,2,Asia,Credit Card,2.5,261,156.88,313.76,15.688
+79,2136,Sports,161.96,5,5,Middle East,Cash on Delivery,2.2,3,153.86,769.3,38.465
+80,3487,Electronics,333.85,20,3,Middle East,Cash on Delivery,1.2,405,267.08,801.24,40.062
+81,1889,Home & Kitchen,184.94,5,2,North America,Wallet,3.9,479,175.69,351.38,17.569
+82,4925,Books,346.28,5,4,Europe,Cash on Delivery,4.2,477,328.97,1315.88,65.794
+83,1761,Home & Kitchen,69.16,20,1,North America,Credit Card,3,492,55.33,55.33,2.7665
+84,2023,Fashion,337.66,0,2,Asia,Cash on Delivery,2.6,316,337.66,675.32,33.766
+85,2680,Home & Kitchen,393.65,10,3,Middle East,Cash on Delivery,1.2,112,354.28,1062.84,53.142
+86,3066,Fashion,452.78,20,5,North America,UPI,2.4,102,362.22,1811.1,90.555
+87,3056,Electronics,230.81,15,2,Middle East,Credit Card,4.7,313,196.19,392.38,19.619
+88,2855,Sports,282.35,15,2,North America,Credit Card,2.5,3,240,480,24
+89,4256,Fashion,148.01,20,2,Asia,UPI,3.2,295,118.41,236.82,11.841
+90,2061,Beauty,79.49,20,3,Middle East,Wallet,4.4,472,63.59,190.77,9.5385
+91,3770,Sports,90.69,30,5,North America,Wallet,3.1,376,63.48,317.4,15.87
+92,1903,Sports,423.06,30,5,Europe,UPI,2,312,296.14,1480.7,74.035
+93,1133,Sports,273.03,5,4,North America,Debit Card,3,361,259.38,1037.52,51.876
+94,2968,Fashion,191.27,10,2,Europe,Cash on Delivery,1.5,294,172.14,344.28,17.214
+95,2125,Beauty,432.66,0,4,Middle East,Wallet,3.4,252,432.66,1730.64,86.532
+96,2964,Beauty,61.33,15,3,Middle East,Credit Card,4.1,418,52.13,156.39,7.8195
+97,2172,Home & Kitchen,299.14,30,5,Europe,Credit Card,1.9,223,209.4,1047,52.35
+98,3039,Sports,396.42,10,3,North America,UPI,2.2,213,356.78,1070.34,53.517
+99,1092,Sports,66.83,30,3,Middle East,Debit Card,4.6,54,46.78,140.34,7.017
+100,3849,Books,64.67,5,2,North America,Cash on Delivery,4.3,438,61.44,122.88,6.144
+101,4211,Sports,21.52,10,1,Asia,UPI,1.1,300,19.37,19.37,0.9685
+102,4366,Home & Kitchen,471.27,0,3,Europe,UPI,1.7,178,471.27,1413.81,70.6905
+103,3911,Home & Kitchen,347.63,20,5,Europe,Wallet,1.2,19,278.1,1390.5,69.525
+104,1773,Beauty,40.36,20,2,Middle East,Debit Card,1.1,322,32.29,64.58,3.229
+105,4664,Books,337.27,20,2,Middle East,UPI,3.9,107,269.82,539.64,26.982
+106,3591,Beauty,155.29,5,2,Middle East,Wallet,3.5,249,147.53,295.06,14.753
+107,1187,Sports,59.12,0,4,Middle East,Debit Card,3.4,433,59.12,236.48,11.824
+108,3183,Books,496.15,10,3,North America,Cash on Delivery,2,422,446.54,1339.62,66.981
+109,1165,Fashion,94.04,15,5,Middle East,Debit Card,2.8,200,79.93,399.65,19.9825
+110,4548,Beauty,400.28,5,2,Middle East,Cash on Delivery,3.9,328,380.27,760.54,38.027
+111,4038,Home & Kitchen,441.29,0,3,Europe,Cash on Delivery,3,447,441.29,1323.87,66.1935
+112,4218,Beauty,267.51,15,3,North America,Debit Card,1.3,358,227.38,682.14,34.107
+113,1244,Electronics,488.12,20,2,North America,Debit Card,4.3,120,390.5,781,39.05
+114,2206,Electronics,64.33,0,1,Europe,Debit Card,3.2,91,64.33,64.33,3.2165
+115,2032,Electronics,480.63,10,4,Middle East,Debit Card,4.8,176,432.57,1730.28,86.514
+116,2459,Home & Kitchen,39.98,5,2,North America,Credit Card,1.6,216,37.98,75.96,3.798
+117,2179,Home & Kitchen,241.28,0,1,Middle East,Credit Card,1.1,456,241.28,241.28,12.064
+118,1829,Electronics,428.24,30,5,Middle East,Credit Card,4.3,110,299.77,1498.85,74.9425
+119,3735,Sports,278.83,20,1,Europe,Credit Card,4.3,172,223.06,223.06,11.153
+120,3161,Home & Kitchen,293.81,30,4,North America,UPI,1.5,342,205.67,822.68,41.134
+121,2778,Sports,84.69,5,3,North America,UPI,4.4,173,80.46,241.38,12.069
+122,3214,Home & Kitchen,492.25,15,2,Asia,Cash on Delivery,3,364,418.41,836.82,41.841
+123,3535,Home & Kitchen,119.41,20,4,Asia,Cash on Delivery,1.9,328,95.53,382.12,19.106
+124,1436,Electronics,430.17,15,1,Asia,Wallet,1.2,172,365.64,365.64,18.282
+125,3270,Fashion,478.5,20,4,North America,Credit Card,1.8,26,382.8,1531.2,76.56
+126,3238,Sports,143.99,10,4,Middle East,UPI,4.4,278,129.59,518.36,25.918
+127,2810,Sports,366.6,5,3,North America,Cash on Delivery,4,346,348.27,1044.81,52.2405
+128,2824,Fashion,44.79,0,3,North America,Debit Card,4.5,176,44.79,134.37,6.7185
+129,3623,Books,372.02,15,1,Europe,Wallet,5,354,316.22,316.22,15.811
+130,1793,Beauty,244.75,15,3,Middle East,Credit Card,4.5,276,208.04,624.12,31.206
+131,1172,Fashion,63.38,15,1,Middle East,Debit Card,4.7,1,53.87,53.87,2.6935
+132,2280,Books,447.85,10,3,Middle East,Wallet,4.7,399,403.07,1209.21,60.4605
+133,2738,Fashion,341.04,10,4,Middle East,Credit Card,2.2,203,306.94,1227.76,61.388
+134,1449,Electronics,88.45,30,1,Asia,Credit Card,2.4,397,61.92,61.92,3.096
+135,4572,Books,268.74,10,1,Middle East,UPI,3.4,115,241.87,241.87,12.0935
+136,2954,Electronics,166.31,20,1,Europe,Cash on Delivery,2,391,133.05,133.05,6.6525
+137,3124,Electronics,356.73,30,1,North America,Credit Card,2,25,249.71,249.71,12.4855
+138,1614,Books,315.59,30,2,North America,Wallet,3.9,311,220.91,441.82,22.091
+139,1225,Sports,98.82,10,1,Europe,UPI,2,442,88.94,88.94,4.447
+140,4297,Sports,124.85,30,5,North America,Debit Card,3.7,248,87.4,437,21.85
+141,1738,Books,353.75,30,1,Asia,Cash on Delivery,4.6,25,247.62,247.62,12.381
+142,2631,Fashion,339.21,5,3,Middle East,Wallet,1.4,330,322.25,966.75,48.3375
+143,1940,Fashion,159.56,5,4,North America,Debit Card,3,482,151.58,606.32,30.316
+144,1075,Beauty,241.73,30,3,Asia,Wallet,3.6,364,169.21,507.63,25.3815
+145,4104,Fashion,236.26,20,5,Asia,UPI,1.5,117,189.01,945.05,47.2525
+146,4665,Sports,66.6,15,2,Europe,UPI,1.6,390,56.61,113.22,5.661
+147,1068,Books,312.42,10,3,Middle East,UPI,1.4,213,281.18,843.54,42.177
+148,2874,Fashion,135.9,10,4,Europe,Debit Card,4.4,302,122.31,489.24,24.462
+149,3462,Books,232.65,10,4,Middle East,Debit Card,1.8,125,209.39,837.56,41.878
+150,3778,Beauty,40.52,15,4,Europe,Credit Card,3.3,232,34.44,137.76,6.888
+151,4519,Books,308.95,5,5,Asia,Credit Card,3.5,100,293.5,1467.5,73.375
+152,3409,Beauty,420.6,15,1,Middle East,Debit Card,3.5,263,357.51,357.51,17.8755
+153,1869,Beauty,286.95,5,2,Middle East,UPI,3.7,217,272.6,545.2,27.26
+154,2393,Beauty,300.42,15,5,Asia,Debit Card,2.6,7,255.36,1276.8,63.84
+155,4470,Electronics,338.29,20,5,Europe,Credit Card,2,291,270.63,1353.15,67.6575
+156,2837,Sports,102.19,15,5,North America,Credit Card,1.9,435,86.86,434.3,21.715
+157,4191,Home & Kitchen,39.05,30,4,Asia,Credit Card,1.4,374,27.33,109.32,5.466
+158,4119,Sports,427.73,30,3,Europe,Cash on Delivery,3.2,459,299.41,898.23,44.9115
+159,3115,Books,424.07,0,2,North America,Wallet,3.8,383,424.07,848.14,42.407
