@@ -117,6 +117,6 @@ The application expects a CSV file with **at least** the following columns:
 
 ---
 
-## 👤 Author
+## 👤 Application
 
 Academic project — Faculty of Cybernetics, Statistics and Economic Informatics
