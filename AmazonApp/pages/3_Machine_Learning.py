@@ -445,7 +445,7 @@ if submit_lr:
 
         model_lr_cls = LogisticRegression(
             max_iter=max_iter_lr, solver=solver_lr,
-            random_state=42, multi_class="auto"
+            random_state=42
         )
         model_lr_cls.fit(X_tr_s, y_tr)
         y_pred_lr = model_lr_cls.predict(X_te_s)
